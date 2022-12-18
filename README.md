@@ -1,5 +1,5 @@
 # First-Five-project-python
-Simple python project
+# Simple python project Description
 
 @1. Create a Band Name Generator Using Python
 Our band name generator engine analyses information about you and your group, then creates a list of cool and meaningful names, with a random element to help mix things up.
