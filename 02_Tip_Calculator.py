@@ -1,5 +1,3 @@
-from operator import is_
-
 is_on = True
 while is_on:
     print("Welcome to the tip calculator!")
